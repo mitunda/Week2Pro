@@ -78,4 +78,12 @@
     width: 350px;
     height: 380px;
     margin-right: 10px;
-    }
+}
+
+h4{
+    margin-top: 1%;
+}
+button{
+    color: black;
+    background-color: #ff5900;
+}
