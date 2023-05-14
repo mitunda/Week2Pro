@@ -46,3 +46,19 @@
     padding: 20px 0;
     font-size: 30px;
   }
+  .buyacar{
+    padding: 10px;
+    background-color: orange;
+  }
+  .RentaCar{
+    padding: 10px;
+    border-color: orange;
+    color: orange;
+    background-color: white;
+  }
+  .topratedcars{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+  }
