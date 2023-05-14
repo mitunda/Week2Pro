@@ -141,4 +141,8 @@ button{
   footer{
     padding: 20px;
   }
+  .footer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
   
