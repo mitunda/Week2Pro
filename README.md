@@ -2,6 +2,7 @@
  By Peter Mitunda.
 ## Description
 - The project entails the services offered by the business listed, Rocarstor.
+## Project Design
 - ![](/photos/design.png)
 ## Setup Instructions
 - Run 'git clone https://github.com/mitunda/Week2Pro.git'
