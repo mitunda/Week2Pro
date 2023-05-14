@@ -62,3 +62,20 @@
     justify-content: space-around;
     align-items: start;
   }
+  .carbrands{
+    display: inline-flex;
+    padding: 1.5rem;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
+    flex: 1;
+    margin-right: 20px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+    
+.carbox{
+    border: 1px solid rgba(209, 197, 197, 0.2);
+    padding: 10px;
+    width: 350px;
+    height: 380px;
+    margin-right: 10px;
+    }
