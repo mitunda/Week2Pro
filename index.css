@@ -138,5 +138,7 @@ button{
     display: flex;
     text-align: center;
   }
-  
+  footer{
+    padding: 20px;
+  }
   
