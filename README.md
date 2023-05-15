@@ -1,5 +1,7 @@
-## Rocarstor Webpage
- By Peter Mitunda.
+## Project Name
+- Rocarstor Webpage
+## Author
+- By Peter Mitunda.
 ## Description
 - The project entails the services offered by the business listed, Rocarstor.
 ## Project Design
