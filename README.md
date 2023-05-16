@@ -2,7 +2,7 @@
 - Rocarstor Webpage
 ## Author
 - By Peter Mitunda.
-## Author's Information
+## Author's Contact Information
 - email:peterbrian28@gmail.com
 ## Description
 - The project entails the services offered by the business listed, Rocarstor.
